@@ -1,0 +1,21 @@
+.impar{
+    background-color: red;
+    font-family: Verdana, sans-serif;
+}
+
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+
+.font-size-exception{
+    font-size: 25px;
+}
+
+#four{
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
